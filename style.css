@@ -1,0 +1,30 @@
+*{
+    background-color: rgb(255, 255, 255);
+    font-family: 'Raleway', sans-serif;
+}
+body{
+    text-align: center;
+    border: 1px solid white;
+}
+table{
+    width: 20%;
+    display: inline;
+    text-align: center;
+}
+th{
+    border: 1px solid black;
+    color:rgb(255, 255, 255);
+    background-color: rgb(126, 167, 255);
+    padding: 20px;
+}
+td{
+    color:rgb(0, 0, 0);
+    border: 1px solid black;
+}
+td:hover{
+    background-color:rgb(126, 167, 255);
+    color:rgb(255, 255, 255);
+}
+
+
+
